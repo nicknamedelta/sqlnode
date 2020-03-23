@@ -8,11 +8,11 @@
 
 `yarn add express pg pg-hstore sequelize`
 
-**Sequelize Cli - Dev Dependency**:
+**Sequelize Cli**:
 
 `yarn add sequelize-cli -D`
 
-**Nodemon - Dev Dependency**:
+**Nodemon**:
 
 `yarn add nodemon -D`
 
