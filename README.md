@@ -28,6 +28,6 @@ Undo Last Migrate: `yarn sequelize db:migrate:undo`
 
 In project's root folder:
 
-`yarn dev`
+`yarn install` and `yarn dev`
 
 **Based on** [SQL no Node.js com Sequelize | Masterclass #01](https://www.youtube.com/watch?v=Fbu7z5dXcRs)
